@@ -1,4 +1,8 @@
 # FSI_Proj
+
+1) Ignore the one 10-k file that is in here that's accidentally uploaded
+2) Task1.py is 1.1, 1.2 is Analysis.py
+
 1) Simple script that downloads the 10-k filings from 1995-2023. I chose Lazard, BNY Mellon, and JP Morgan because they all sort of occupy the same space in asset management. I wanted to look at the state of these firms based on risk factors identified over time. 
 2) Risk factors are important for users in case they want to invest/buy stock in this specific company. I categorized the visualization generation into different risk factor categories such as brand reputation, security, financial, and operational. In this way, the users can see what the companies are most concerned about over a span of 1995-2023. In addition, users can see what has been improved. My goal was a stacked colored trend chart that would record the frequencies of different risk factor keywords mentioned over time. 
 
